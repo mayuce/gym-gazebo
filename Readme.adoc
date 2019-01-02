@@ -1,0 +1,4 @@
+# README
+
+Aciklamalar kod icerisinde yapilmistir. Kod tek basina calismaz. Calismasi icin Ubuntu 18.04 isletim sistemi ile
+ROS Kinetic, Gazebo kurulmadilir.
